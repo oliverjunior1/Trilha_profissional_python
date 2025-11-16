@@ -7,8 +7,8 @@
 # print(x == z)
 # print(x == z)
 
-x = ['apple', 'banana']
-y = ['apple', 'banana']
-
-print(x is not y)
-print(x is not x)
+# x = ['apple', 'banana']
+# y = ['apple', 'banana']
+#
+# print(x is not y)
+# print(x is not x)
